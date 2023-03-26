@@ -1,2 +1,2 @@
 # Gitlet
-A minimal version control system build with Java.
+A minimal version control system built in Java.
